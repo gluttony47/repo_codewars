@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Gluttony's Blog
 
 You can use the [editor on GitHub](https://github.com/gluttony47/repo_codewars/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
